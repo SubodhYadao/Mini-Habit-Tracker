@@ -1,6 +1,6 @@
 # Mini Habit Tracker
 
-This is a simple React-based Mini Habit Tracker component that allows users to check off daily habits like “Drink Water”, “Exercise”, “Read”, etc. It includes filtering options and a summary of completed habits.
+This is a simple React-based Mini Habit Tracker component that allows users to check off daily habits like “Drink Water”, “Meditate”, “Code for 1 hour”, “Exercise”, “Read”, etc. It includes filtering options and a summary of completed habits.
 
 ## Features
 
@@ -15,7 +15,7 @@ This is a simple React-based Mini Habit Tracker component that allows users to c
 1. Clone the repository:
 
 ```bash
-git clone < https://github.com/Deewanmewada/Mini-habit-tracker >
+git clone https://github.com/SubodhYadao/Mini-Habit-Tracker/
 cd mini-habit-tracker
 ```
 
